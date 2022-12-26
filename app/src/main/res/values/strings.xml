@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">My Task Todo</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Bắt đầu thôi!</string>
+    <string name="intro_text_description">Hợp tác và lên kế hoạch cùng với mọi người trong một ứng dụng đơn giản, dễ sử dụng</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="sign_up">Đăng ký</string>
+
+    <string name="sign_up_description_text">Nhập tên, email của bạn và mật khẩu để đăng ký tài khoản mới.</string>
+    <string name="name">Tên</string>
+    <string name="password">Mật khẩu</string>
+    <string name="email">Email</string>
+
+
+    <string name="sign_in_description_text">Chào mừng trở lại, hãy đăng nhập với Email và mật khẩu đã đăng ký trước đây.</string>
+
+    <string name="please_click_back_again_to_exit">Nhấn thêm lần nữa để thoát.</string>
+    <string name="please_wait">Đợi một chút&#8230;</string>
+
+    <string name="nav_my_profile">Profile của tôi</string>
+    <string name="nav_sign_out">Đăng xuất</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="update">Cập nhật</string>
+    <string name="my_profile_title">Profile của tôi</string>
+
+    <string name="create_board_title">Tạo bảng mới</string>
+    <string name="create">Tạo bảng</string>
+    <string name="board_name">Tên bảng</string>
+
+    <string name="no_boards_are_available">Hiện tại chưa có nhiệm vụ nào!!!</string>
+
+    <string name="action_add_list">Thêm danh sách</string>
+    <string name="hint_list_name">Tên danh sách</string>
+    <string name="action_add_card">Thêm thẻ</string>
+    <string name="hint_card_name">Tên thẻ</string>
+    <string name="add_list">Thêm danh sách</string>
+
+    <string name="members">Thành viên</string>
+
+    <string name="add_member">Thêm thành viên</string>
+    <string name="cancel">Hủy</string>
+    <string name="add">Thêm</string>
+    <string name="search_member">Tìm kiếm thành viên</string>
+
+    <string name="label_color">Màu nhãn</string>
+    <string name="select_color">Chọn màu nhãn</string>
+    <string name="select_members">Chọn thành viên</string>
+
+    <string name="dead_line">Dead line</string>
+    <string name="select_dead_line">Chọn thời gian</string>
+    <string name="delete_card">Xóa thẻ</string>
+
+    <string name="alert">Cảnh báo</string>
+    <string name="confirmation_message_to_delete_card">Bạn có muốn xóa thẻ \'%1$s\'?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+
+    <string name="str_select_label_color">Chọn màu nhãn</string>
+
+    <string name="str_select_member">Chọn thành viên</string>
+
+
+    <string name="default_notification_channel_id">projemanag_notification_channel_id</string>
+    <string name="show_password">Show Password</string>
+    <string name="empty_image">Empty Image</string>
+    <string name="create_board_button">create board button</string>
+</resources>

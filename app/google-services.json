@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299100649953",
+    "project_id": "task-todo-list-4e1bc",
+    "storage_bucket": "task-todo-list-4e1bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299100649953:android:f88e7dfa5e84f04a87baa0",
+        "android_client_info": {
+          "package_name": "com.k70mobile.mytasktodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299100649953-j73masvgmjjfj86gnf9c0984df826094.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu2rHQJ9AtkhHlok8ak7MxEnmQiTXpck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299100649953-j73masvgmjjfj86gnf9c0984df826094.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
